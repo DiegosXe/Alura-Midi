@@ -12,7 +12,7 @@
 
 🔹 [Descrição do Projeto](#descrição-do-projeto)
 
-🔹 [Cursos Realizados e Conceitos Aprendidos](#curso-realizado-e-conceitos-aprendidos)
+🔹 [Curso Realizado e Conceitos Aprendidos](#curso-realizado-e-conceitos-aprendidos)
 
 🔹 [Deploy](#deploy)
 
