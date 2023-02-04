@@ -1,4 +1,4 @@
-<p align='center'><img height="200em" src="images/bateria.png#vitrinedev" alt="Imagem da Barbearia"></p>
+<p align='center'><img height="200em" src="https://uploaddeimagens.com.br/images/004/329/978/original/bateria.png?1675548125#vitrinedev" alt="Imagem da Barbearia"></p>
 
 <h1 align="center">Alura Midi</h1>
 
