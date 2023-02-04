@@ -1,4 +1,4 @@
-<p align='center'><img height="200em" src="images/bateria.png" alt="Imagem da Barbearia"></p>
+<p align='center'><img height="200em" src="images/bateria.png#vitrinedev" alt="Imagem da Barbearia"></p>
 
 <h1 align="center">Alura Midi</h1>
 
